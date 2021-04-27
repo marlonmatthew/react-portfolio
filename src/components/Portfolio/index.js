@@ -17,7 +17,9 @@ function Portfolio() {
                   id="thumbnail"
                 ></img>
                 <div className="media-body">
-                  <h5 className="mt-0 mb-1">Weather Dashboard</h5>
+                  <h5 className="mt-0 mb-1" id="project">
+                    Weather Dashboard
+                  </h5>
                   <p id="description">
                     Search any city in the world to retrieve current weather
                     conditions as well as a 5-day forecast. UCR Coding Bootcamp
@@ -51,7 +53,9 @@ function Portfolio() {
                   id="thumbnail"
                 ></img>
                 <div className="media-body">
-                  <h5 className="mt-0 mb-1">ricemusic.net</h5>
+                  <h5 className="mt-0 mb-1" id="project">
+                    ricemusic.net
+                  </h5>
                   <p id="description">
                     San Diego bassist Rice Enright has been a staple in the
                     music community for many years. It was important to create
@@ -77,7 +81,9 @@ function Portfolio() {
                   id="thumbnail"
                 ></img>
                 <div className="media-body">
-                  <h5 className="mt-0 mb-1">Burger Devourment App</h5>
+                  <h5 className="mt-0 mb-1" id="project">
+                    Burger Devourment App
+                  </h5>
                   <p id="description">
                     Add burgers to a database and change their devoured status.
                   </p>
@@ -109,7 +115,9 @@ function Portfolio() {
                   id="thumbnail"
                 ></img>
                 <div className="media-body">
-                  <h5 className="mt-0 mb-1">willitstream.com</h5>
+                  <h5 className="mt-0 mb-1" id="project">
+                    willitstream.com
+                  </h5>
                   <p id="description">
                     Search for your favorite movie or show titles and see where
                     they are streaming. UCR Coding Bootcamp project #1.
@@ -142,7 +150,9 @@ function Portfolio() {
                   id="thumbnail"
                 ></img>
                 <div className="media-body">
-                  <h5 className="mt-0 mb-1">Daily Planner UCA6</h5>
+                  <h5 className="mt-0 mb-1" id="project">
+                    Daily Planner UCA6
+                  </h5>
                   <p id="description">
                     A 24 hour daily planner with an Amazon theme. UCR Coding
                     Bootcamp assignment #5.
@@ -175,7 +185,9 @@ function Portfolio() {
                   id="thumbnail"
                 ></img>
                 <div className="media-body">
-                  <h5 className="mt-0 mb-1">JavaScript Quiz</h5>
+                  <h5 className="mt-0 mb-1" id="project">
+                    JavaScript Quiz
+                  </h5>
                   <p id="description">
                     A 5 question multiple choice quiz with high score
                     functionality. UCR Coding Bootcamp assignment #4.
@@ -208,7 +220,9 @@ function Portfolio() {
                   id="thumbnail"
                 ></img>
                 <div className="media-body">
-                  <h5 className="mt-0 mb-1">Password Generator</h5>
+                  <h5 className="mt-0 mb-1" id="project">
+                    Password Generator
+                  </h5>
                   <p id="description">
                     Generate a password based off certain user criteria. UCR
                     Coding Bootcamp assignment #3.

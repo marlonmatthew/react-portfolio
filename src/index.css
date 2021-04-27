@@ -96,6 +96,7 @@ p {
 
 .media-body {
   margin-bottom: 32px;
+  text-align: left;
 }
 
 .col-md-auto {
@@ -105,11 +106,15 @@ p {
 
 #headerButton {
   margin-right: 10px;
-  border:2px solid rgb(0, 0, 0);
+  border: 2px solid rgb(0, 0, 0);
   -moz-box-shadow: 2px 2px 2px rgb(24, 24, 24);
   -webkit-box-shadow: 2px 2px 2px rgb(24, 24, 24);
   box-shadow: 2px 2px 2px rgb(24, 24, 24);
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   border-radius: 5px;
+}
+
+#project {
+  font-size: 26px;
 }
