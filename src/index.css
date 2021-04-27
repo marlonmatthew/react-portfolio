@@ -12,7 +12,7 @@ code {
     monospace;
 }
 
-.jumbotron {
+#jumbo {
   background-color: #5d89ac;
   text-align: center;
   font-family: "Alegreya Sans SC", sans-serif;
