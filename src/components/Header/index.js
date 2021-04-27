@@ -23,12 +23,14 @@ function Header() {
                   <button
                     type="button"
                     className="btn btn-light bi bi-envelope-fill"
+                    id="headerButton"
                   ></button>
                 </a>
                 <a href="tel: 619-504-4166">
                   <button
                     type="button"
                     className="btn btn-light bi bi-phone-fill"
+                    id="headerButton"
                   ></button>
                 </a>
                 <a
@@ -38,6 +40,7 @@ function Header() {
                   <button
                     type="button"
                     className="btn btn-light bi bi-linkedin"
+                    id="headerButton"
                   ></button>
                 </a>
                 <a
@@ -47,6 +50,7 @@ function Header() {
                   <button
                     type="button"
                     className="btn btn-light bi bi-file-person-fill"
+                    id="headerButton"
                   ></button>
                 </a>
               </div>
