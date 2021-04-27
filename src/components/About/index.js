@@ -4,9 +4,9 @@ import "../../index.css";
 function About() {
   return (
     <div>
-      <section class="container">
-        <div class="row">
-          <div class="col-sm mb-3">
+      <section className="container">
+        <div className="row">
+          <div className="col-sm mb-3">
             <h2>About Me</h2>
             <p>
               My first exposure to web design was my high school zero period
@@ -33,9 +33,9 @@ function About() {
               work I completed.
             </p>
           </div>
-          <div class="col-md-auto mb-4">
+          <div className="col-md-auto mb-4">
             <img
-              class="mar_image"
+              className="mar_image"
               src="img/marlon-matthew-02.jpg"
               alt="Web developer Marlon Matthew"
             ></img>

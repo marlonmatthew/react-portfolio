@@ -4,9 +4,11 @@ import "../../index.css";
 function Footer() {
   return (
     <div className="footer">
-      <footer class="footer mt-auto py-3 text-center">
-        <div class="container">
-          <span class="text-muted">Copyright &copy; 2021 Marlon Matthew</span>
+      <footer className="footer mt-auto py-3 text-center">
+        <div className="container">
+          <span className="text-muted">
+            Copyright &copy; 2021 Marlon Matthew
+          </span>
         </div>
       </footer>
     </div>
