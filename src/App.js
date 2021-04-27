@@ -15,7 +15,7 @@ function App() {
           <Main />
           <Footer />
         </Wrapper>
-        <Route exact path="/" component={Home} />
+        <Route exact path="/" component={Wrapper} />
       </div>
     </Router>
   );
