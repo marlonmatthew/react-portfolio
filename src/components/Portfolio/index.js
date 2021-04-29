@@ -11,23 +11,22 @@ function Portfolio() {
             <ul className="list-unstyled">
               <li className="media">
                 <img
-                  src="img/weather-dashboard.jpg"
+                  src="img/bubbles-ems.jpg"
                   className="mr-3"
-                  alt="Weather Dashboard"
+                  alt="Bubbles EMS"
                   id="thumbnail"
                 ></img>
                 <div className="media-body">
                   <h5 className="mt-0 mb-1" id="project">
-                    Weather Dashboard
+                    Bubbles EMS
                   </h5>
                   <p id="description">
-                    Search any city in the world to retrieve current weather
-                    conditions as well as a 5-day forecast. UCR Coding Bootcamp
-                    assignment #6.
+                    Dashboard for managing employee accounts, time, pay, and
+                    schedules. UCR Coding Bootcamp project #3.
                   </p>
                   <p>
                     <a
-                      href="https://marlonmatthew.github.io/weather-dashboard/"
+                      href="https://peaceful-castle-79357.herokuapp.com/"
                       id="portfolio-link"
                       target="_blank"
                     >
@@ -36,7 +35,7 @@ function Portfolio() {
                   </p>
                   <p>
                     <a
-                      href="https://github.com/marlonmatthew/weather-dashboard"
+                      href="https://github.com/marlonmatthew/Portal-Matriarch"
                       id="portfolio-link"
                       target="_blank"
                     >
@@ -45,60 +44,33 @@ function Portfolio() {
                   </p>
                 </div>
               </li>
-              <li className="media mb-4">
-                <img
-                  src="img/ricemusic.jpg"
-                  className="mr-3"
-                  alt="ricemusic.net"
-                  id="thumbnail"
-                ></img>
-                <div className="media-body">
-                  <h5 className="mt-0 mb-1" id="project">
-                    ricemusic.net
-                  </h5>
-                  <p id="description">
-                    San Diego bassist Rice Enright has been a staple in the
-                    music community for many years. It was important to create
-                    this site with WordPress and Elementor, which gave him the
-                    capability to make future updates and edits on his own.
-                  </p>
-                  <p>
-                    <a
-                      href="https://www.ricemusic.net"
-                      id="portfolio-link"
-                      target="_blank"
-                    >
-                      https://www.ricemusic.net
-                    </a>
-                  </p>
-                </div>
-              </li>
               <li className="media">
                 <img
-                  src="img/burger-devourment-app.jpg"
+                  src="img/gentle-drinkers.jpg"
                   className="mr-3"
-                  alt="Burger Devourment App"
+                  alt="Gentle Drinkers"
                   id="thumbnail"
                 ></img>
                 <div className="media-body">
                   <h5 className="mt-0 mb-1" id="project">
-                    Burger Devourment App
+                    Gentle Drinkers
                   </h5>
                   <p id="description">
-                    Add burgers to a database and change their devoured status.
+                    Filter through a database of eclectic craft beers to aid the
+                    selection process. UCR Coding Bootcamp project #2.
                   </p>
                   <p>
                     <a
-                      href="https://burger-devourment.herokuapp.com"
+                      href="https://gentledrinkers.herokuapp.com/"
                       id="portfolio-link"
                       target="_blank"
                     >
-                      https://burger-devourment.herokuapp.com
+                      Deployed Site
                     </a>
                   </p>
                   <p>
                     <a
-                      href="https://github.com/marlonmatthew/burger"
+                      href="https://github.com/marlonmatthew/beerapp"
                       id="portfolio-link"
                       target="_blank"
                     >
@@ -144,6 +116,42 @@ function Portfolio() {
               </li>
               <li className="media">
                 <img
+                  src="img/weather-dashboard.jpg"
+                  className="mr-3"
+                  alt="Weather Dashboard"
+                  id="thumbnail"
+                ></img>
+                <div className="media-body">
+                  <h5 className="mt-0 mb-1" id="project">
+                    Weather Dashboard
+                  </h5>
+                  <p id="description">
+                    Search any city in the world to retrieve current weather
+                    conditions as well as a 5-day forecast. UCR Coding Bootcamp
+                    assignment #6.
+                  </p>
+                  <p>
+                    <a
+                      href="https://marlonmatthew.github.io/weather-dashboard/"
+                      id="portfolio-link"
+                      target="_blank"
+                    >
+                      Deployed Site
+                    </a>
+                  </p>
+                  <p>
+                    <a
+                      href="https://github.com/marlonmatthew/weather-dashboard"
+                      id="portfolio-link"
+                      target="_blank"
+                    >
+                      GitHub Repo
+                    </a>
+                  </p>
+                </div>
+              </li>
+              <li className="media mb-1">
+                <img
                   src="img/daily-planner.jpg"
                   className="mr-3"
                   alt="Daily Planner UCA6"
@@ -177,72 +185,30 @@ function Portfolio() {
                   </p>
                 </div>
               </li>
-              <li className="media">
+              <li className="media mb-4">
                 <img
-                  src="img/javascript-quiz.jpg"
+                  src="img/ricemusic.jpg"
                   className="mr-3"
-                  alt="JavaScript Quiz"
+                  alt="ricemusic.net"
                   id="thumbnail"
                 ></img>
                 <div className="media-body">
                   <h5 className="mt-0 mb-1" id="project">
-                    JavaScript Quiz
+                    ricemusic.net
                   </h5>
                   <p id="description">
-                    A 5 question multiple choice quiz with high score
-                    functionality. UCR Coding Bootcamp assignment #4.
+                    San Diego bassist Rice Enright has been a staple in the
+                    music community for many years. It was important to create
+                    this site with WordPress and Elementor, which gave him the
+                    capability to make future updates and edits on his own.
                   </p>
                   <p>
                     <a
-                      href="https://marlonmatthew.github.io/javascript-quiz/"
+                      href="https://www.ricemusic.net"
                       id="portfolio-link"
                       target="_blank"
                     >
-                      Deployed Site
-                    </a>
-                  </p>
-                  <p>
-                    <a
-                      href="https://github.com/marlonmatthew/javascript-quiz"
-                      id="portfolio-link"
-                      target="_blank"
-                    >
-                      GitHub Repo
-                    </a>
-                  </p>
-                </div>
-              </li>
-              <li className="media">
-                <img
-                  src="img/password-generator.jpg"
-                  className="mr-3"
-                  alt="Password Generator"
-                  id="thumbnail"
-                ></img>
-                <div className="media-body">
-                  <h5 className="mt-0 mb-1" id="project">
-                    Password Generator
-                  </h5>
-                  <p id="description">
-                    Generate a password based off certain user criteria. UCR
-                    Coding Bootcamp assignment #3.
-                  </p>
-                  <p>
-                    <a
-                      href="https://marlonmatthew.github.io/password-generator/"
-                      id="portfolio-link"
-                      target="_blank"
-                    >
-                      Deployed Site
-                    </a>
-                  </p>
-                  <p>
-                    <a
-                      href="https://github.com/marlonmatthew/password-generator"
-                      id="portfolio-link"
-                      target="_blank"
-                    >
-                      GitHub Repo
+                      https://www.ricemusic.net
                     </a>
                   </p>
                 </div>
