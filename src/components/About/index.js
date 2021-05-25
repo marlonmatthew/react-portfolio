@@ -23,10 +23,10 @@ function About() {
               gig offers, and gain higher google search rankings.
             </p>
             <p>
-              I am currently completing a certification for a web development
+              I have completed a certification for a web development
               bootcamp in 2021 through the University of California, Riverside.
-              My knowledge and skills as a full stack web developer are greatly
-              expanding. I am excited to put my newly acquired skillset to use
+              My knowledge and skills as a full stack web developer have greatly
+              expanded. I am excited to put my newly acquired skillset to use
               in the professional world. My portfolio showcases many of the
               assignments and projects that I submitted throughout the bootcamp.
               Outside of the bootcamp, my portfolio also showcases freelance
