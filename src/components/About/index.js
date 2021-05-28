@@ -6,7 +6,7 @@ function About() {
     <div>
       <section className="container">
         <div className="row">
-          <div className="col-sm mb-3">
+          <div className="col-sm mb-3 mt-4">
             <h2>About Me</h2>
             <p>
               My first exposure to web design was my high school zero period
