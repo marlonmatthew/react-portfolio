@@ -244,7 +244,7 @@ function Portfolio() {
     <p>
 Skills: GitHub, MySQL, MongoDB, ReactJS, Node.js, Express, Handlebars.js, JQuery, Bootstrap, SEO, Copywriting, Hootsuite, MailChimp, WordPress, Elementor, Adobe Photoshop, Microsoft Office 
     </p>
-    </div>
+         </div>
         </div>
       </section>
     </div>
