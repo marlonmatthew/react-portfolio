@@ -237,6 +237,14 @@ function Portfolio() {
               </li>
             </ul>
           </div>
+    <div className="col-md-auto mt-2 mb-4">
+            <h2 className="header">Technical Skills</h2>
+    <p id="description">
+    Languages: Javascript ES6+, CSS3, HTML5, SQL, NoSQL 
+
+Skills: GitHub, MySQL, MongoDB, ReactJS, Node.js, Express, Handlebars.js, JQuery, Bootstrap, SEO, Copywriting, Hootsuite, MailChimp, WordPress, Elementor, Adobe Photoshop, Microsoft Office 
+    </p>
+    </div>
         </div>
       </section>
     </div>
