@@ -22,7 +22,7 @@ function Portfolio() {
                   </h5>
                   <p id="description">
                     Dashboard for managing employee accounts, time, pay, and
-                    schedules. UCR Coding Bootcamp project #3.
+                    schedules. Core responsibilities: Front-end design and CSS styling, database schema, application concept. Technologies used: HTML, CSS, Bootstrap, JavaScript, MongoDB, React. UCR Coding Bootcamp project #3.
                   </p>
                   <p>
                     <a
@@ -57,7 +57,7 @@ function Portfolio() {
                   </h5>
                   <p id="description">
                     Filter through a database of eclectic craft beers to aid the
-                    selection process. UCR Coding Bootcamp project #2.
+                    selection process. Core responsibilities: Front-end design and CSS styling, database schema. Technologies used: HTML, CSS, Bootstrap, JavaScript, MySQL, Node.js, Express, Handlebars.js. UCR Coding Bootcamp project #2.
                   </p>
                   <p>
                     <a
@@ -91,8 +91,7 @@ function Portfolio() {
                     willitstream.com
                   </h5>
                   <p id="description">
-                    Search for your favorite movie or show titles and see where
-                    they are streaming. UCR Coding Bootcamp project #1.
+                    Search for movies or series and see where they are currently streaming. Core responsibilities: Implemented API calls on the back-end, fixed design issues on the front end, and finalized overall design and functionality. Technologies used: OMDb and uTelly APIs, HTML, CSS, Bootstrap, JavaScript, JQuery, Ajax. UCR Coding Bootcamp project #1.
                   </p>
                   <p>
                     <a
@@ -127,8 +126,7 @@ function Portfolio() {
                   </h5>
                   <p id="description">
                     Search any city in the world to retrieve current weather
-                    conditions as well as a 5-day forecast. UCR Coding Bootcamp
-                    assignment #6.
+                    conditions as well as a 5-day forecast. Technologies used: HTML, CSS, Javascript, JQuery, OpenWeather API. UCR Coding Bootcamp assignment #6.
                   </p>
                   <p>
                     <a
@@ -162,8 +160,7 @@ function Portfolio() {
                     Daily Planner UCA6
                   </h5>
                   <p id="description">
-                    A 24 hour daily planner with an Amazon theme. UCR Coding
-                    Bootcamp assignment #5.
+                    A 24 hour daily planner with an Amazon theme. Technologies used: HTML, CSS, Javascript, JQuery. UCR Coding Bootcamp assignment #5.
                   </p>
                   <p>
                     <a
@@ -200,7 +197,7 @@ function Portfolio() {
                     San Diego bassist Rice Enright has been a staple in the
                     music community for many years. It was important to create
                     this site with WordPress and Elementor, which gave him the
-                    capability to make future updates and edits on his own.
+                    capability to make future updates and edits on his own. Many of the services he provides as a music professional in the community are featured here. Technologies used: Wordpress, Elementor.
                   </p>
                   <p>
                     <a
