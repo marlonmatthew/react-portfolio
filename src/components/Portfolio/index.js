@@ -204,8 +204,8 @@ function Portfolio() {
                   alt="ricemusic.net"
                   id="thumbnail"
                 ></img>
-                <div className="media-body">
-                  <h5 className="mt-0 mb-1" id="project">
+                <div className="media-body2">
+                  <h5 className="mt-0" id="project">
                     ricemusic.net
                   </h5>
                   <p id="description">
@@ -230,13 +230,14 @@ function Portfolio() {
               </li>
             </ul>
           </div>
-          <h2 className="header">Technical Skills</h2>
-          <p>Languages: Javascript ES6+, CSS3, HTML5, SQL, NoSQL</p>
-          <p>
-            Skills: GitHub, MySQL, MongoDB, ReactJS, Node.js, Express,
-            Handlebars.js, JQuery, Bootstrap, SEO, Copywriting, Hootsuite,
-            MailChimp, WordPress, Elementor, Adobe Photoshop, Microsoft Office
-          </p>
+          <div className="col-md-auto mb-4">
+            <h2 className="header">Technical Skills</h2>
+            <p>Languages: Javascript ES6+, CSS3, HTML5, SQL, NoSQL</p>
+            <p>
+              Skills: GitHub, MySQL, MongoDB, ReactJS, Node.js, Express,
+              Handlebars.js, JQuery, Bootstrap
+            </p>
+          </div>
         </div>
       </section>
     </div>
