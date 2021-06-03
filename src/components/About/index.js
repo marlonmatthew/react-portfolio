@@ -11,10 +11,11 @@ function About() {
               <u>About Me</u>
             </h2>
             <p>
-              My first exposure to web design was in high school zero period
-              class where I began learning HTML and basic graphic design back in
-              1996. Creating websites for personal endeavors was something I
-              continued to enjoy doing throughout the years.
+              My first exposure to web design was in 1995 at a computer camp
+              where I began learning HTML and basic graphic design. Soon after,
+              I took a web design class in high school where I continued to
+              develop these skills. Creating websites for personal endeavors was
+              something I continued to enjoy doing throughout the years.
             </p>
             <p>
               In 2016, I completed an internship with Linguistic Horizons where
