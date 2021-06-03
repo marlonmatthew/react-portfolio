@@ -1,4 +1,4 @@
-## react-portfolio
+## Marlon Matthew - Web Development Portfolio - React
 
 ![Capture](https://user-images.githubusercontent.com/73320305/116298033-d3594f80-a750-11eb-9b19-75b4a8e972d3.PNG)
 
@@ -22,13 +22,13 @@
 
 ## Description
 
-My web development portfolio now as a React app
+Full-stack web developer with a degree in International Business from San Diego State University. Bootcamp certification in full-stack web development attained in 2021 from the University of California, Riverside. Advanced proficiency in skills such as HTML5, CSS3, JavaScript, MySQL and more. Learned web design principles in 1995 and continued building personal websites since. Completed an Internship with Linguistic Horizons in 2016, utilizing WordPress to improve site appearance and enhance on-page SEO. Built a website in 2017 for a client in the music industry, increasing their online presence and enhancing lead generation. Working with Amazon since 2019 in a Ultra Fast Fresh Fulfillment Center where I have consistently displayed leadership skills and diligent work ethic. Passion for bringing designs to life and developing creative, intuitive and functional web applications as seen in my portfolio.
 
 ---
 
 ## Installation
 
-n/a
+If you wish to run this app locally, download the zip file of the repo, open the unzipped folder in VScode, then in the terminal type "npm i" then "npm start".
 
 ---
 
@@ -36,17 +36,19 @@ n/a
 
 https://my-react-app-portfolio.herokuapp.com/
 
+If you wish to run this app in locally, follow the installation instructions.
+
 ---
 
 ## License
 
-This application is covered under the None license.
+This application is covered under the MIT license.
 
 ---
 
 ## Contributing
 
-n/a
+If you wish to contribute to any of my repos, please contact me directly. See the Questions section below.
 
 ---
 
