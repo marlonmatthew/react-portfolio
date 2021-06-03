@@ -36,6 +36,7 @@ function Header() {
                 <a
                   href="https://www.linkedin.com/in/marlonmatthew/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <button
                     type="button"
@@ -46,6 +47,7 @@ function Header() {
                 <a
                   href="https://drive.google.com/file/d/1rmrtH_6nKLEHmf7a0UcKhS47sF6Ym-CS/view?usp=sharing"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <button
                     type="button"
