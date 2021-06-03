@@ -23,11 +23,12 @@ function Portfolio() {
                     Bubbles EMS
                   </h5>
                   <p id="description">
-                    Dashboard for managing employee accounts, time, pay, and
-                    schedules. Core responsibilities: Front-end design and CSS
-                    styling, database schema, application concept. Technologies
-                    used: HTML, CSS, Bootstrap, JavaScript, MongoDB, React. UCR
-                    Coding Bootcamp project #3.
+                    To login, use "admin" for the login and "bubbles923681" for
+                    the password. Dashboard for managing employee accounts,
+                    time, pay, and schedules. Core responsibilities: Front-end
+                    design and CSS styling, database schema, application
+                    concept. Technologies used: HTML, CSS, Bootstrap,
+                    JavaScript, MongoDB, React. UCR Coding Bootcamp project #3.
                   </p>
                   <p>
                     <a
