@@ -34,7 +34,7 @@ If you wish to run this app locally, download the zip file of the repo, open the
 
 https://my-react-app-portfolio.herokuapp.com/
 
-If you wish to run this app in locally, follow the installation instructions.
+If you wish to run this app locally, follow the installation instructions.
 
 ---
 
