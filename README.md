@@ -34,7 +34,7 @@ n/a
 
 ## Usage
 
-n/a
+https://my-react-app-portfolio.herokuapp.com/
 
 ---
 
